@@ -1,0 +1,11 @@
+Realizar a detecção e extração de objetos a partir de uma imagem panorâmica construída por sobreposição. O objetivo é identificar e isolar com precisão objetos específicos na imagem.  Assumir que  não existe objetos alinhados verticalmente (somente horizontalmente como descrito na imagem).
+
+Responsabilidades:
+
+Analisar a imagem  fornecida para identificar objetos distintos.
+Desenvolver  algoritmos  para detectar e extrair esses objetos com precisão. (não é permitido usar uma solução pronta que já realize esse processo)
+Entregar os objetos extraídos em um formato png 
+Entregáveis:
+
+Os objetos extraídos da imagem alinhada fornecida, no formato requerido.
+Apresentar o resultado em aula.
